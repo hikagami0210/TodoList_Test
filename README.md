@@ -1,5 +1,4 @@
 # TodoList_Test
-Todo test app created with Flutter
 
 Flutterを使用したToDoアプリ
 
